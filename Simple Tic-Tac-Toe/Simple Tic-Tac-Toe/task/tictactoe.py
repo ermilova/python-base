@@ -1,4 +1,4 @@
-#Interactive Tic-Tac-Toe game
+# Interactive Tic-Tac-Toe game
 def print_grid(grid):
     print('-' * 9)
     for i in range(0, 3):
